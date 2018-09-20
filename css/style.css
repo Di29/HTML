@@ -1,0 +1,35 @@
+.sentence1{
+  font-size: 24px;
+  font-weight: normal;
+  margin-bottom: 20px;
+}
+.sentence2{
+  font-weight: bold;
+  font-size: 15;
+  background: #c4c4c4;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+.sentence3{
+  font-weight: normal;
+  font-size: 15;
+  color: white;
+  background: #c40001;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+}
+.sentence4{
+  font-size: 15;
+  font-weight: normal;;
+  font-style: italic;
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+.sentence5{
+  font-size: 15;color: white;
+  font-weight: normal;
+  text-transform: uppercase;
+  background: #808080;
+  padding-bottom: 30px;
+}

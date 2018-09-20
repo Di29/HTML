@@ -1,0 +1,15 @@
+.pictures{
+  
+}
+
+.audAndvid{
+  width: 450px;
+}
+
+.pictures, .audAndvid{
+  display: inline-block;
+}
+
+.parent{
+  text-align: center;
+}

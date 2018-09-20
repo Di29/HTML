@@ -1,0 +1,45 @@
+.main{
+  text-align: center;
+  margin-left: 700px;
+}
+
+.field{
+  width: 400px;
+}
+
+.sub, .res{
+  display: inline-block;
+}
+.sub{
+  background: aquamarine;
+  color: white;
+  height: 30px;
+  border-radius: 6px 6px 6px 22px;
+  border-color: lightblue;
+}
+
+.res{
+  background: aquamarine;
+  color: red;
+  height: 30px;
+  font-weight: bold;
+}
+
+.text{
+  border: 2px red dotted;
+  width: 900px;
+  background-color: yellow;
+  margin-left: 400px;
+  padding: 20px;
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.moun{
+  color: green;
+}
+
+.vil{
+  color: darkorange;
+}
