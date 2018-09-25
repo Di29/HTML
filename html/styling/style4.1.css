@@ -1,0 +1,24 @@
+.a1, .a2{
+  display: inline-block;
+}
+
+
+.a1{
+  width: 150px;
+  height: 930px;
+  background-image: url(../ornament.png);
+  background-color: #00a6c8;
+}
+
+.a2{
+  width: 1725px;
+  height: 930px;
+  background-color: #00a6c8;
+  background-image: url(../solnce.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.main{
+  background-color: #00a6c8;
+}

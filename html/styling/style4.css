@@ -1,0 +1,29 @@
+.a1{
+  background-image: url(../capture.png);
+  background-repeat: no-repeat;
+  padding: 5px 10px;
+  color: white;
+  font-family: 'Segoe UI';
+  background-color: darkred;
+  background-position: 242px 8px;
+}
+
+.a2{
+  background-image: url(../capture.png);
+  background-repeat: no-repeat;
+  padding: 5px 10px;
+  color: white;
+  font-family: 'Segoe UI';
+  background-color: darkgreen;
+  background-position: 242px -68px;
+}
+
+.a3{
+  background-image: url(../capture.png);
+  background-repeat: no-repeat;
+  padding: 5px 10px;
+  color: white;
+  font-family: 'Segoe UI';
+  background-color: darkblue;
+  background-position: 242px -29px;
+}
