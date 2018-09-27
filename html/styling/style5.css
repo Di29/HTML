@@ -1,0 +1,25 @@
+ul li{
+  display: inline-block;
+  margin-right: 30px;
+  background-image: url(../text-lines.png);
+  background-repeat: no-repeat;
+  padding-left: 20px;
+  background-position: 0 5px;
+}
+
+li a{
+  color: #c40000;
+  text-transform: uppercase;
+  font-family: 'Segoe UI';
+  font-weight: bold;
+}
+
+.menu{
+  background-color: pink;
+  border-top: 3px solid red;
+  border-bottom: 3px solid red;
+}
+
+body{
+  margin: 0;
+}
