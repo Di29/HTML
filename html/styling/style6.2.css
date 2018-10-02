@@ -1,0 +1,25 @@
+button{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  margin: 10px;
+  width: 100px;
+  color: white;
+  font-family: 'Segoe UI';
+}
+
+ul>button{
+  background-color:#6737b8;
+  border-color: #6737b8;
+}
+
+ul>button:nth-child(3n){
+  background-color: #ea1863;
+  border-color: #ea1863;
+}
+
+.boxes{
+  margin-top: 120px;
+  margin-right: 250px;
+  margin-left: 250px;
+}

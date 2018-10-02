@@ -1,0 +1,16 @@
+.box-1{
+  background-color: rgb(29, 91, 231);
+  color: #FFF;
+  font-size: 18px;
+  border-color: #40bd9b;
+  width: 150px;
+  transition: 0.3s;
+}
+
+.box-1 button:hover{
+  background-color: #c62550;
+  color:#FFF;
+  transition: 0.3s;
+  font-size: 18px;
+  border-color: #dfbc25;
+}

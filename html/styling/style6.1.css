@@ -1,0 +1,21 @@
+body{
+  font-family: 'Segoe UI';
+}
+
+ul>li{
+  list-style-type: square;
+}
+
+.label{
+  font-weight: bold;
+}
+
+ul>li:nth-child(1){
+  color: #ea1e67;
+  font-weight: bold;
+}
+
+ul>li:nth-child(5){
+  color: #4bb04f;
+  font-style: italic;
+}
